@@ -2,7 +2,7 @@
 
 In this project, I developed a **Convolutional Neural Network (CNN)** to classify retinal images into three categories: **diabetic retinopathy**, **glaucoma**, or **normal**. The model achieved an impressive accuracy of **89%**. To prepare the dataset, I performed several preprocessing steps, including **resizing the images**, **normalizing pixel values**, and applying **data augmentation techniques** such as random flips and rotations. The CNN architecture consisted of **convolutional layers**, **max-pooling layers**, and **dense layers**. For training, I utilized the **Adam optimizer** and **sparse categorical cross-entropy loss**. Overall, this project aimed to improve diagnostic accuracy for retinal diseases using deep learning techniques.
 
-#### Dataset: https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
+### Dataset: https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 
 ### Summary of the steps:
 
